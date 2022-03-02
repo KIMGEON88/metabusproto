@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/metabusproto/static/css/main.073c9b0a.css",
-    "main.js": "/metabusproto/static/js/main.051eb34f.js",
-    "static/js/787.f587e8d5.chunk.js": "/metabusproto/static/js/787.f587e8d5.chunk.js",
-    "static/media/logo.svg": "/metabusproto/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/metabusproto/static/css/main.d1db9fb4.css",
+    "main.js": "/metabusproto/static/js/main.a1a379dd.js",
+    "static/media/Pretendard-Light.ttf": "/metabusproto/static/media/Pretendard-Light.771fa51dcb3672cc6d70.ttf",
+    "static/media/Pretendard-Regular.ttf": "/metabusproto/static/media/Pretendard-Regular.02efe31729ef598431fa.ttf",
+    "static/media/Pretendard-ExtraBold.ttf": "/metabusproto/static/media/Pretendard-ExtraBold.11a7b4ef1f5369619600.ttf",
+    "static/media/Pretendard-Bold.ttf": "/metabusproto/static/media/Pretendard-Bold.c118fe5a220efe6a75c7.ttf",
+    "static/media/Pretendard-ExtraBold.woff": "/metabusproto/static/media/Pretendard-ExtraBold.a6f30dd6e4c3c93ea3cb.woff",
+    "static/media/Pretendard-Bold.woff": "/metabusproto/static/media/Pretendard-Bold.d0f80e7ac3933bfbf45d.woff",
+    "static/media/Pretendard-Regular.woff": "/metabusproto/static/media/Pretendard-Regular.371a053f6fa19004d5fa.woff",
+    "static/media/Pretendard-Light.woff": "/metabusproto/static/media/Pretendard-Light.e90933d161baef9945bf.woff",
+    "static/media/Pretendard-ExtraBold.woff2": "/metabusproto/static/media/Pretendard-ExtraBold.36145a15bedb632d6795.woff2",
+    "static/media/Pretendard-Bold.woff2": "/metabusproto/static/media/Pretendard-Bold.6b164eb09ac66559881e.woff2",
+    "static/media/Pretendard-Regular.woff2": "/metabusproto/static/media/Pretendard-Regular.0c7ef87f67b575118ed9.woff2",
+    "static/media/Pretendard-Light.woff2": "/metabusproto/static/media/Pretendard-Light.f63725c2aff140ea2706.woff2",
+    "static/media/firstBackgroundImage.png": "/metabusproto/static/media/firstBackgroundImage.e32e0b4a37ee7a565b46.png",
+    "static/media/StudentFaceImage4.png": "/metabusproto/static/media/StudentFaceImage4.80004d5e04e4eb5b2ebf.png",
+    "static/media/StudentFaceImage3.png": "/metabusproto/static/media/StudentFaceImage3.bc7f4b0a38a89b4a292b.png",
+    "static/media/StudentFaceImage2.png": "/metabusproto/static/media/StudentFaceImage2.06918d74a54ade45a0db.png",
+    "static/media/StudentFaceImage6.png": "/metabusproto/static/media/StudentFaceImage6.1b92918439f5b0183443.png",
+    "static/media/StudentFaceImage5.png": "/metabusproto/static/media/StudentFaceImage5.cb045ca39f89ae10c2d9.png",
+    "static/media/StudentFaceImage1.png": "/metabusproto/static/media/StudentFaceImage1.5837491c740f04474189.png",
     "index.html": "/metabusproto/index.html",
-    "main.073c9b0a.css.map": "/metabusproto/static/css/main.073c9b0a.css.map",
-    "main.051eb34f.js.map": "/metabusproto/static/js/main.051eb34f.js.map",
-    "787.f587e8d5.chunk.js.map": "/metabusproto/static/js/787.f587e8d5.chunk.js.map"
+    "main.d1db9fb4.css.map": "/metabusproto/static/css/main.d1db9fb4.css.map",
+    "main.a1a379dd.js.map": "/metabusproto/static/js/main.a1a379dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.051eb34f.js"
+    "static/css/main.d1db9fb4.css",
+    "static/js/main.a1a379dd.js"
   ]
 }

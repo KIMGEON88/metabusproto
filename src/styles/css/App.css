@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Pretendard-Bold";
+  src: url("../fonts/Pretendard-Bold.woff2") format("woff2"),
+    url("../fonts/Pretendard-Bold.woff") format("woff"),
+    url("../fonts/Pretendard-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard-Regular";
+  src: url("../fonts/Pretendard-Regular.woff2") format("woff2"),
+    url("../fonts/Pretendard-Regular.woff") format("woff"),
+    url("../fonts/Pretendard-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard-Light";
+  src: url("../fonts/Pretendard-Light.woff2") format("woff2"),
+    url("../fonts/Pretendard-Light.woff") format("woff"),
+    url("../fonts/Pretendard-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Pretendard-ExtraBold";
+  src: url("../fonts/Pretendard-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Pretendard-ExtraBold.woff") format("woff"),
+    url("../fonts/Pretendard-ExtraBold.ttf") format("truetype");
+}
+
+input::placeholder {
+  color: #0d7377;
+  font-size: 2.5vw;
+  font-family: "Pretendard-ExtraBold";
+  text-align: center;
+}
