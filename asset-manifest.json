@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/metabusproto/static/css/main.d1db9fb4.css",
-    "main.js": "/metabusproto/static/js/main.a1a379dd.js",
+    "main.css": "/metabusproto/static/css/main.ef8e99d6.css",
+    "main.js": "/metabusproto/static/js/main.1cc260eb.js",
     "static/media/Pretendard-Light.ttf": "/metabusproto/static/media/Pretendard-Light.771fa51dcb3672cc6d70.ttf",
     "static/media/Pretendard-Regular.ttf": "/metabusproto/static/media/Pretendard-Regular.02efe31729ef598431fa.ttf",
     "static/media/Pretendard-ExtraBold.ttf": "/metabusproto/static/media/Pretendard-ExtraBold.11a7b4ef1f5369619600.ttf",
@@ -16,17 +16,18 @@
     "static/media/Pretendard-Light.woff2": "/metabusproto/static/media/Pretendard-Light.f63725c2aff140ea2706.woff2",
     "static/media/firstBackgroundImage.png": "/metabusproto/static/media/firstBackgroundImage.e32e0b4a37ee7a565b46.png",
     "static/media/StudentFaceImage4.png": "/metabusproto/static/media/StudentFaceImage4.80004d5e04e4eb5b2ebf.png",
+    "static/media/MobileBackgroundImage.png": "/metabusproto/static/media/MobileBackgroundImage.6b387692a6ed37b42e06.png",
     "static/media/StudentFaceImage3.png": "/metabusproto/static/media/StudentFaceImage3.bc7f4b0a38a89b4a292b.png",
     "static/media/StudentFaceImage2.png": "/metabusproto/static/media/StudentFaceImage2.06918d74a54ade45a0db.png",
     "static/media/StudentFaceImage6.png": "/metabusproto/static/media/StudentFaceImage6.1b92918439f5b0183443.png",
     "static/media/StudentFaceImage5.png": "/metabusproto/static/media/StudentFaceImage5.cb045ca39f89ae10c2d9.png",
     "static/media/StudentFaceImage1.png": "/metabusproto/static/media/StudentFaceImage1.5837491c740f04474189.png",
     "index.html": "/metabusproto/index.html",
-    "main.d1db9fb4.css.map": "/metabusproto/static/css/main.d1db9fb4.css.map",
-    "main.a1a379dd.js.map": "/metabusproto/static/js/main.a1a379dd.js.map"
+    "main.ef8e99d6.css.map": "/metabusproto/static/css/main.ef8e99d6.css.map",
+    "main.1cc260eb.js.map": "/metabusproto/static/js/main.1cc260eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1db9fb4.css",
-    "static/js/main.a1a379dd.js"
+    "static/css/main.ef8e99d6.css",
+    "static/js/main.1cc260eb.js"
   ]
 }
