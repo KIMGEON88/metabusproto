@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/metabusproto/static/css/main.3b9b965a.css",
-    "main.js": "/metabusproto/static/js/main.31971e01.js",
+    "main.js": "/metabusproto/static/js/main.065f4bc0.js",
     "static/media/Pretendard-Light.ttf": "/metabusproto/static/media/Pretendard-Light.771fa51dcb3672cc6d70.ttf",
     "static/media/Pretendard-Regular.ttf": "/metabusproto/static/media/Pretendard-Regular.02efe31729ef598431fa.ttf",
     "static/media/Pretendard-ExtraBold.ttf": "/metabusproto/static/media/Pretendard-ExtraBold.11a7b4ef1f5369619600.ttf",
@@ -24,10 +24,10 @@
     "static/media/StudentFaceImage1.png": "/metabusproto/static/media/StudentFaceImage1.5837491c740f04474189.png",
     "index.html": "/metabusproto/index.html",
     "main.3b9b965a.css.map": "/metabusproto/static/css/main.3b9b965a.css.map",
-    "main.31971e01.js.map": "/metabusproto/static/js/main.31971e01.js.map"
+    "main.065f4bc0.js.map": "/metabusproto/static/js/main.065f4bc0.js.map"
   },
   "entrypoints": [
     "static/css/main.3b9b965a.css",
-    "static/js/main.31971e01.js"
+    "static/js/main.065f4bc0.js"
   ]
 }
